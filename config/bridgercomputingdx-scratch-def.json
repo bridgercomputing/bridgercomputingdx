@@ -1,0 +1,15 @@
+{
+  "orgName": "bridgercomputingdx",
+  "country": "US",
+  "adminEmail": "sdykstra@bridgercomputing.com",
+  "edition": "Developer",
+  "features": "AuthorApex;CustomApps;CustomTabs;SalesWave;ServiceCloud;ServiceWave;Sites",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "EventLogWaveIntegEnabled",
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  }
+}
