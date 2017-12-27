@@ -1,0 +1,16 @@
+{
+  "orgName": "bridgercomputing-dx",
+  "country": "US",
+  "username": "sdykstra@bridgercomputing-dx.com",
+  "adminEmail": "sdykstra@bridgercomputing.com",
+  "edition": "Developer",
+  "features": "AuthorApex;Communities;CustomerSelfService;CustomApps;CustomTabs;ForceComPlatform;SalesWave;ServiceCloud;ServiceWave;Sites",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "S1DesktopEnabled",
+      "SocialProfilesEnable"
+    ],
+    "disabled": []
+  }
+}
