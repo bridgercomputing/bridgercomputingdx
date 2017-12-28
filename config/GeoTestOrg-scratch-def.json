@@ -1,0 +1,15 @@
+{
+  "orgName": "GeoTestOrg",
+  "country": "US",
+  "username": "sdykstra@geotestorg.com",
+  "adminEmail": "sdykstra@bridgercomputing.com",
+  "edition": "Developer",
+  "features": "AuthorApex;Communities;CustomApps;CustomTabs;ForceComPlatform;SalesWave;ServiceCloud;ServiceWave;Sites",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  }
+}
