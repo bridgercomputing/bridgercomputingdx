@@ -10,7 +10,7 @@
     </classAccesses>
     <custom>true</custom>
     <layoutAssignments>
-        <layout>Account-Account %28Sales%29 Layout</layout>
+        <layout>Account-Account %28Marketing%29 Layout</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
@@ -44,10 +44,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>CreateCustomizeFilters</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateCustomizeReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

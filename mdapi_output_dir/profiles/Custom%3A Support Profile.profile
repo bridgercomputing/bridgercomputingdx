@@ -10,7 +10,7 @@
     </classAccesses>
     <custom>true</custom>
     <layoutAssignments>
-        <layout>Account-Account %28Sales%29 Layout</layout>
+        <layout>Account-Account %28Support%29 Layout</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
@@ -44,10 +44,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>CreateCustomizeFilters</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateCustomizeReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -103,11 +99,19 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageCases</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageCssUsers</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageEncryptionKeys</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageSolutions</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -132,6 +136,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>SubscribeToLightningReports</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>TransferAnyCase</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
