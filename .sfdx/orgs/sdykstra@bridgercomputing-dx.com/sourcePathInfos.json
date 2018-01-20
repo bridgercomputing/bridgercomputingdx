@@ -32,14 +32,14 @@
     [
         "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default",
             "isDirectory": true,
-            "size": 384,
-            "modifiedTime": 1516253900907,
-            "changeTime": 1516253900907,
-            "contentHash": "fada493d461e0707ba243d29ac7200956e5f7ad6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 448,
+            "modifiedTime": 1516430943456,
+            "changeTime": 1516430943456,
+            "contentHash": "46c90eee22fcab592f97d4766baaf1e925a03daa"
         }
     ],
     [
@@ -62,7 +62,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/layouts",
             "isDirectory": true,
             "size": 192,
-            "modifiedTime": 1514351533607,
+            "modifiedTime": 1516335113417,
             "changeTime": 1514351533607,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
             "isMetadataFile": false,
@@ -76,14 +76,13 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9756,
-            "modifiedTime": 1514351533607,
-            "changeTime": 1514351533607,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "size": 9626,
+            "modifiedTime": 1516335018256,
+            "changeTime": 1516335018289,
+            "contentHash": "06f9cff462b3b6aa517280b41c23d585f22e9050",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -91,14 +90,13 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9708,
-            "modifiedTime": 1514351533586,
-            "changeTime": 1514351533586,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "size": 9578,
+            "modifiedTime": 1516335040515,
+            "changeTime": 1516335040522,
+            "contentHash": "62acb819720373d4aa0d30d34e5844c93af678d9",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -106,14 +104,13 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9756,
-            "modifiedTime": 1514351533595,
-            "changeTime": 1514351533595,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "size": 9626,
+            "modifiedTime": 1516335081814,
+            "changeTime": 1516335081847,
+            "contentHash": "d1a1eb772e3fed1007b74cb653278a2257356d9d",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -121,14 +118,13 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9708,
-            "modifiedTime": 1514351533573,
-            "changeTime": 1514351533573,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "size": 9578,
+            "modifiedTime": 1516335113409,
+            "changeTime": 1516335113417,
+            "contentHash": "c8c7eb16008d7b17df4b377876e88238b626e1d0",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -224,10 +220,10 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx",
             "isDirectory": true,
-            "size": 448,
-            "modifiedTime": 1514865431568,
-            "changeTime": 1514865431568,
-            "contentHash": "f317892befef2338b2f0ef2101d6874aa61f53b0",
+            "size": 480,
+            "modifiedTime": 1516289990348,
+            "changeTime": 1516289990348,
+            "contentHash": "69ef0f2c4a8d4ae0d6b31c236c638554fb409f4e",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
@@ -238,10 +234,10 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1516252978874,
-            "changeTime": 1515391308385,
-            "contentHash": "263d50c4bfeb9d581b0910e7a72dd5ef4191c8b1",
+            "size": 512,
+            "modifiedTime": 1516430729663,
+            "changeTime": 1516430729663,
+            "contentHash": "7069747267d1ec1be6b92a1ca52f87794438ce15",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -342,10 +338,10 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4912,
-            "modifiedTime": 1516253610651,
-            "changeTime": 1516253610651,
-            "contentHash": "8a62e8c9cf5ca3ddde6aebcce00c7fdad10ce717",
+            "size": 4675,
+            "modifiedTime": 1516334764594,
+            "changeTime": 1516334764600,
+            "contentHash": "a675bf175bc3e713fd1c850c81e48b10c94c6f46",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -355,10 +351,10 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 17713,
-            "modifiedTime": 1516253610685,
-            "changeTime": 1516253610685,
-            "contentHash": "138d59b0eafc381837f3d6dadef22d2e3fee8cc5",
+            "size": 15904,
+            "modifiedTime": 1516335908821,
+            "changeTime": 1516335908828,
+            "contentHash": "7894f390343f52e0e8ac7ce5154a5e7c6beaa3ea",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -368,10 +364,10 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4456,
-            "modifiedTime": 1516253610699,
-            "changeTime": 1516253610699,
-            "contentHash": "26606c5346c4bc5b0ef78c626629285eccd585a8",
+            "size": 4335,
+            "modifiedTime": 1516334456062,
+            "changeTime": 1516334456069,
+            "contentHash": "76312a4c0a73036d05e3c5fbc7b6af281e2b0f2b",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -381,10 +377,10 @@
         {
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4460,
-            "modifiedTime": 1516253610714,
-            "changeTime": 1516253610714,
-            "contentHash": "a0ec9d8761939e8004a393d69603931c9d4c47c5",
+            "size": 4339,
+            "modifiedTime": 1516334428295,
+            "changeTime": 1516334428326,
+            "contentHash": "bb0a68c35c82345abca0a2f09a4f0a4842665d11",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -408,7 +404,7 @@
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/profiles",
             "isDirectory": true,
             "size": 192,
-            "modifiedTime": 1514358122521,
+            "modifiedTime": 1516335908828,
             "changeTime": 1514358122521,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
@@ -1302,14 +1298,14 @@
     [
         "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/triggers/BearAlertTopicAssignmentTrigger.trigger",
         {
-            "state": "u",
             "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/triggers/BearAlertTopicAssignmentTrigger.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 963,
             "modifiedTime": 1516255683374,
             "changeTime": 1516255683407,
-            "contentHash": "c53821d34770d8effd0b19ff016754a800c2cd28"
+            "contentHash": "c53821d34770d8effd0b19ff016754a800c2cd28",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1323,6 +1319,175 @@
             "contentHash": "f4fa2f66f8bb3776185595bdb1839ef7e913cd99",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/remoteSiteSettings/EPS_API.remoteSite-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/remoteSiteSettings/EPS_API.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 258,
+            "modifiedTime": 1516314777360,
+            "changeTime": 1516314777360,
+            "contentHash": "2c835e5029eecd4b9a2c186eb8724e22efa2ef7b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/remoteSiteSettings",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516314777360,
+            "changeTime": 1516314777360,
+            "contentHash": "bdc349ccde2f68c5c06d8d44f48dacfd547cb66d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWT.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWT.cls",
+            "isDirectory": false,
+            "size": 2797,
+            "modifiedTime": 1516339372140,
+            "changeTime": 1516339372154,
+            "contentHash": "048cf8e236cad7ae99456d66b7a0b1704c511d2a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWT.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWT.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516337016930,
+            "changeTime": 1516337016939,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/HttpFormBuilder.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/HttpFormBuilder.cls",
+            "isDirectory": false,
+            "size": 3331,
+            "modifiedTime": 1516343882454,
+            "changeTime": 1516343882466,
+            "contentHash": "6161c90d8100c52cdb78c39fcccb6682e00496b1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/HttpFormBuilder.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/HttpFormBuilder.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516340838384,
+            "changeTime": 1516340838399,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/Vision.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/Vision.cls",
+            "isDirectory": false,
+            "size": 3859,
+            "modifiedTime": 1516423915902,
+            "changeTime": 1516423915921,
+            "contentHash": "529be73218f3521b468582af731156f83cc0c410",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/Vision.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/Vision.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516343984563,
+            "changeTime": 1516343984587,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWTBearerFlow.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWTBearerFlow.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516430729650,
+            "changeTime": 1516430729650,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWTBearerFlow.cls",
+        {
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/classes/JWTBearerFlow.cls",
+            "isDirectory": false,
+            "size": 1070,
+            "modifiedTime": 1516430729655,
+            "changeTime": 1516430729655,
+            "contentHash": "949b3abc045f1454218f690c48d1b88e5ffb5d7d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516431914176,
+            "changeTime": 1516431914176,
+            "contentHash": "a257cf04a415992920f4a200492b29caf1a0ef82"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/pages/Predict.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/pages/Predict.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 989,
+            "modifiedTime": 1516431914168,
+            "changeTime": 1516431914175,
+            "contentHash": "2fe85cfc80fba3c016b2a4494d843585eeead39e"
+        }
+    ],
+    [
+        "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/pages/Predict.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sdykstra/dev-repos/salesforce_repo/bridgercomputingdx/force-app/main/default/pages/Predict.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1516430943601,
+            "changeTime": 1516430943611,
+            "contentHash": "e4d307fae0dba48472817e47f386ca1013fecb80"
         }
     ]
 ]
