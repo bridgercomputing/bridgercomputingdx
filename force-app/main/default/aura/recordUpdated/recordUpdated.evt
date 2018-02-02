@@ -1,0 +1,6 @@
+<!--
+ - Created by sdykstra on 1/28/18.
+ -->
+
+<aura:event type="APPLICATION" description="recordUpdated">
+</aura:event>

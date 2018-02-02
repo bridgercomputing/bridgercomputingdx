@@ -1,0 +1,21 @@
+{
+  "orgName": "visualforce-lightning",
+  "country": "US",
+  "username": "sdykstra@vfligght.com",
+  "adminEmail": "sdykstra@bridgercomputing.com",
+  "edition": "Developer",
+  "features": "API;AuthorApex;Communities;CustomerSelfService;CustomApps;CustomTabs;ForceComPlatform;ServiceCloud;Sites",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "S1DesktopEnabled",
+      "IsChatterProfileEnabled",
+      "IsIdeaThemesEnabled",
+      "IsIdeasEnabled",
+      "IsIdeasReputationEnabled",
+      "IsKnowledgeEnabled",
+      "IsLiveAgentEnabled"
+    ],
+    "disabled": []
+  }
+}
